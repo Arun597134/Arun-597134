@@ -1,8 +1,8 @@
 <h1 align="center">🚀 Arun M</h1>
-<h3 align="center">AI Engineer • Web3 Builder • Full Stack Developer</h3>
+<h3 align="center">Full Stack Web Developer • AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Building+AI+Products;Web3+Innovator;Real-Time+ML+Systems;Future+Tech+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Building+Real-World+Projects;Future+Tech+Creator" />
 </p>
 
 ---
@@ -15,9 +15,9 @@
 📍 Chennai, India
 ⚡ Building intelligent systems with real-world impact
 
-* 🔭 Working on **Bitvault (Crypto Platform)**
-* 🧠 Focused on **Privacy AI & Real-Time ML**
-* 🌐 Exploring **Web3 + Cloud Systems**
+* 🔭 Working on **AI & Web Development Projects**
+* 🧠 Focused on **Machine Learning & Real-Time Systems**
+* 🌐 Exploring **Full Stack Development**
 * 💡 Passionate about **Creative UI/UX**
 
 ---
@@ -36,11 +36,39 @@
   <img src="https://skillicons.dev/icons?i=html,css,react" />
 </p>
 
-### ⚙️ Backend & AI
+### ⚙️ Backend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
+
+### 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🤖 AI / Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 🤖 AI Mock Interviewer
+
+* 🧠 AI-based interview simulation system
+* 🎤 Real-time question & answer interaction
+* 📊 Performance evaluation
+
+### 💬 SJIT Chatbot *(Under Development)*
+
+* 🏫 College assistance chatbot
+* 💡 Helps students with queries & info
+* ⚙️ Built using Web Technologies
 
 ---
 
@@ -66,17 +94,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
-
----
-
-## 🚀 Featured Project
-
-**Bitvault – Crypto Trading Platform**
-
-* 💰 Live Crypto Prices
-* 🔐 Secure Login + KYC
-* 📊 Portfolio Dashboard
-* 🤖 AI Trade Suggestions
 
 ---
 
