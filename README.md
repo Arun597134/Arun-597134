@@ -108,7 +108,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/arun-vijay-5a2845317/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://github.com/Arun597134">
