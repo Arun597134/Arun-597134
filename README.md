@@ -48,11 +48,16 @@
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🤖 AI / Tools
+## 🧠 AI Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=airplayvideo&logoColor=white" />
+  <img src="https://img.shields.io/badge/V0%20(Vercel)-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF69B4?style=for-the-badge&logo=heart&logoColor=white" />
+  <img src="https://img.shields.io/badge/Emergent-6C63FF?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-AI-orange?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
+
 
 ---
 
