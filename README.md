@@ -61,13 +61,13 @@
 ### 🤖 AI Mock Interviewer
 
 * 🧠 AI-based interview simulation system
-* 🎤 Real-time question & answer interaction
+* 🎤 Real-time Q&A interaction
 * 📊 Performance evaluation
 
 ### 💬 SJIT Chatbot *(Under Development)*
 
 * 🏫 College assistance chatbot
-* 💡 Helps students with queries & info
+* 💡 Helps students with queries
 * ⚙️ Built using Web Technologies
 
 ---
@@ -75,8 +75,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Arun597134&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun597134&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Arun597134&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -84,7 +92,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arun597134&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -92,7 +100,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Arun597134&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
@@ -103,7 +111,7 @@
   <a href="https://linkedin.com/in/YOUR_LINK">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Arun597134">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
