@@ -60,15 +60,25 @@
 
 ### 🤖 AI Mock Interviewer
 
-* 🧠 AI-based interview simulation system
-* 🎤 Real-time Q&A interaction
-* 📊 Performance evaluation
+* AI-based interview simulation system
+* Real-time question & answer interaction
+* Performance evaluation
 
 ### 💬 SJIT Chatbot *(Under Development)*
 
-* 🏫 College assistance chatbot
-* 💡 Helps students with queries
-* ⚙️ Built using Web Technologies
+* College assistance chatbot
+* Helps students with queries
+* Built using Web Technologies
+
+---
+
+## 🏆 Achievements & Certifications
+
+* Completed Cryptography Course from Infosys Springboard
+* Completed Bitcoin for Developers I course
+* Completed Java Programming Internship at Codsoft
+* Built AI Mock Interviewer project
+* Attended Data Science with AI Workshop (March 2025)
 
 ---
 
@@ -93,14 +103,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arun597134&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arun597134&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
