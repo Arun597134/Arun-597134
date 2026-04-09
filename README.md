@@ -1,87 +1,74 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Arun%20M&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=62&descSize=20&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:1a0533,60:0d1b4b,100:0D0D1A&height=220&section=header&text=Arun%20M&fontSize=75&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%2FML%20Engineer&descAlignY=58&descSize=22&animation=twinkling" />
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Crafting+Intelligent+AI%2FML+Systems+%F0%9F%A4%96;Full+Stack+%7C+React+%7C+Node.js+%7C+MongoDB;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
-</a>
+<!-- Animated Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=%F0%9F%9A%80+Building+Scalable+Web+Applications;%F0%9F%A4%96+Engineering+Intelligent+AI%2FML+Systems;%E2%9A%A1+React+%7C+Node.js+%7C+MongoDB+%7C+Python;%F0%9F%94%AE+Turning+Data+into+Smart+Solutions)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunvijay-5a2845317)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arun597134/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arunmportfolioin.netlify.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arun.m.dev06@gmail.com)
+<a href="https://linkedin.com/in/arunvijay-5a2845317"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Arun597134"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://arunmportfolioin.netlify.app"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="mailto:arun.m.dev06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Arun597134&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Arun597134?label=Followers&style=for-the-badge&color=7c3aed" />
 
 </div>
 
 ---
 
+<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 ## 🧠 About Me
 
 ```python
 class ArunM:
-    def __init__(self):
-        self.name        = "Arun M"
-        self.role        = ["Full Stack Developer", "AI/ML Engineer"]
-        self.education   = "B.Tech – AI & Data Science @ St. Joseph's Institute of Technology"
-        self.cgpa        = "8.08 / 10"
-        self.location    = "Chennai, India 🇮🇳"
-        self.languages   = ["Python", "JavaScript", "Java", "SQL"]
-        self.interests   = ["Web Dev", "Machine Learning", "NLP", "Cloud"]
-        self.currently   = "Building a MERN Learning Management System 🏗️"
+    name     = "Arun M"
+    role     = ["Full Stack Developer", "AI/ML Engineer"]
+    edu      = "B.Tech – AI & DS @ SJIT Chennai"
+    cgpa     = 8.08
+    location = "Chennai, India 🇮🇳"
+    stack    = {
+        "frontend"  : ["React", "Redux", "Tailwind"],
+        "backend"   : ["Node.js", "Express", "REST APIs"],
+        "ai_ml"     : ["Python", "NLP", "scikit-learn"],
+        "database"  : ["MongoDB", "SQL"],
+        "devops"    : ["Git", "CI/CD", "Vercel", "Oracle"]
+    }
+    building = "MERN LMS Platform 🏗️"
+    fun_fact = "I make machines learn so I don't have to 🤖"
 
     def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together 🚀")
-
-me = ArunM()
-me.say_hi()
+        return "Let's build something amazing together 🚀"
 ```
+
+<br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<!-- External skill icons from skillicons.dev -->
+<img src="https://skillicons.dev/icons?i=python,js,java,react,nodejs,express,mongodb,tailwind,tensorflow,sklearn,git,vercel&theme=dark&perline=6" />
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<br/><br/>
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### DevOps & Cloud
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![TensorFlow.js](https://img.shields.io/badge/TF.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 </div>
 
@@ -89,29 +76,88 @@ me.say_hi()
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| 🤖 Project | 📋 Description | 🔧 Stack |
-|:---:|:---|:---:|
-| [**HireWise AI — Mock Interviewer**](https://github.com/Arun597134/Hirewise-AI) | AI interview simulation generating 20+ tailored questions per session; NLP-based resume parsing with **40% boost** in question relevance | `Python` `NLP` `scikit-learn` `Tkinter` |
-| [**AI Online Assessment Platform**](https://github.com/arunvijay/assessment-platform) | Full-stack AI exam platform with webcam-based proctoring, real-time integrity scoring, anti-cheating modules, and analytics dashboard | `React` `Node.js` `MongoDB` `TensorFlow.js` |
-| [**MERN LMS** *(In Dev)*](https://github.com/Arun597134/) | Role-based Learning Management System with JWT auth, progress tracking, video support, search/filter, and AI-proxied ML services | `React` `Redux` `Node` `Express` `MongoDB` |
+### 🤖 [HireWise AI — Mock Interviewer](https://github.com/Arun597134/Hirewise-AI)
 
-</div>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="100%" style="border-radius:10px"/>
+
+> AI-powered interview simulator with NLP resume parsing
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-orange?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-blue?style=flat-square)
+
+- 📄 NLP resume parsing & keyword extraction
+- ❓ 20+ tailored questions per session
+- 📈 **40% boost** in question relevance
+- 🔄 End-to-end automated interview flow
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [AI Assessment Platform](https://github.com/arunvijay/assessment-platform)
+
+<img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="100%" style="border-radius:10px"/>
+
+> Full-stack exam platform with AI proctoring
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![TF.js](https://img.shields.io/badge/TF.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+- 📷 Webcam proctoring via TensorFlow.js
+- 🚫 Tab-switch tracking & fullscreen lock
+- 📊 Real-time integrity scores
+- 🏆 Leaderboard & analytics dashboard
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📚 MERN Learning Management System *(In Development 🔨)*
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45%" align="right" style="border-radius:10px; margin-left:16px"/>
+
+> Full-stack LMS with role-based access and AI-proxied ML services
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+- 🔐 JWT auth + bcrypt + refresh token sessions
+- 👥 Roles: **Student**, **Instructor**, **Admin**
+- 📹 Per-session video progress tracking
+- 🔍 Search, domain filtering & paginated listings
+- 📝 Timestamped notes & session bookmarks
+- 🤖 AI/ML services proxied through backend
+
+<br clear="right"/>
+</td>
+</tr>
+</table>
 
 ---
 
 ## 💼 Experience
 
 ```
-🏢  Prodigy Infotech           →  Software Development Intern   [Jul – Aug 2025]
-    ↳ Built scalable UI modules, resolved 10+ issues, deployed via CI/CD pipelines
+🏢  Prodigy Infotech           ──  Software Dev Intern      [Jul – Aug 2025]
+    ↳ Scalable UI modules · 10+ bug fixes · CI/CD deployments
 
-🏢  Codsoft IT Solutions        →  Web Development Intern        [2024 – 2025]
-    ↳ Engineered 3+ responsive web pages, integrated RESTful APIs
+🏢  Codtech IT Solutions        ──  Web Dev Intern           [2024 – 2025]
+    ↳ 3+ responsive pages · RESTful API integration · Git workflows
 
-🏢  Codsoft IT Solutions        →  Java Programming Intern       [Jan – Feb 2025]
-    ↳ Built 5+ Java programs using OOP & DSA, refactored into reusable modules
+🏢  Codsoft IT Solutions        ──  Java Programming Intern  [Jan – Feb 2025]
+    ↳ 5+ OOP programs · DSA · Refactored reusable modules
 ```
 
 ---
@@ -120,15 +166,17 @@ me.say_hi()
 
 <div align="center">
 
-| 🎓 Certification | 🏫 Issuer | 📅 Year |
-|:---|:---|:---:|
-| Front End Web Developer | Infosys Springboard | 2025 |
-| Basics of MongoDB | MongoDB University | 2025 |
-| OCI AI Foundations | Oracle University | 2025 |
-| Intro to Large Language Models | Google Cloud | 2025 |
-| Intro to Generative AI | Google Cloud | 2025 |
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="55px"/>
 
 </div>
+
+| 🎖️ Certificate | 🏫 Issuer | 🛠️ Topics |
+|:---|:---:|:---|
+| Front End Web Developer | ![Infosys](https://img.shields.io/badge/Infosys-007CC3?style=flat-square&logo=infosys&logoColor=white) | HTML · CSS · JS · Responsive Design |
+| Basics of MongoDB | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) | NoSQL · Collections · Queries |
+| OCI AI Foundations | ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) | Cloud Infrastructure · AI Services |
+| Intro to Large Language Models | ![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | LLM Concepts · Prompt Engineering |
+| Intro to Generative AI | ![Google](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white) | GenAI · Foundation Models |
 
 ---
 
@@ -136,56 +184,43 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Arun597134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun597134&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Arun597134&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arun597134/Arun597134/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arun597134/Arun597134/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Arun597134/Arun597134/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Arun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun597134&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Let's Connect & Collaborate!
-
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunvijay-5a2845317)
-[![Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://arunmportfolioin.netlify.app)
-[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arun.m.dev06@gmail.com)
+<img src="https://github-readme-stats.vercel.app/api?username=Arun597134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&ring_color=7C3AED" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun597134&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A855F7" height="180"/>
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arun597134&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://streak-stats.demolab.com?user=Arun597134&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
 
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Arun597134&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun597134&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=A855F7&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="55px"/>
+
+### *Let's connect and build something impactful!*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunvijay-5a2845317)
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://arunmportfolioin.netlify.app)
+[![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arun.m.dev06@gmail.com)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D1A,30:1a0533,60:0d1b4b,100:0D0D1A&height=120&section=footer&animation=twinkling" />
 
 </div>
