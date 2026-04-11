@@ -202,12 +202,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arun597134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&ring_color=7C3AED" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun597134&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=A855F7" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arun597134&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="180"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun597134&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Arun597134&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" />
+<img src="https://streak-stats.demolab.com?user=Arun597134&theme=tokyonight&hide_border=true" />
 
 <br/>
 
@@ -221,7 +222,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun597134&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A855F7&line=7C3AED&point=A855F7&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arun597134&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -236,6 +237,24 @@
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arunvijay-5a2845317)
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://arunmportfolioin.netlify.app)
 [![Email](https://img.shields.io/badge/Send_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arun.m.dev06@gmail.com)
+
+<br/><br/>
+
+---
+
+### 😂 Me waiting for my PR to get approved...
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="320px"/>
+
+<br/>
+
+### 🐛 Also me after fixing one bug and creating three more...
+
+<img src="https://media.giphy.com/media/RH1IFq2GT0Oau8NRWX/giphy.gif" width="320px"/>
+
+<br/><br/>
+
+> *"It works on my machine"* — Arun M, probably 🤷‍♂️
 
 <br/>
 
