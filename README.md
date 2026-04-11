@@ -147,7 +147,7 @@
 
 ### 🏛️ [CivicFlow — AI Civic Complaint Platform](https://github.com/Arun597134/)
 
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="45%" align="right" style="border-radius:10px; margin-left:16px"/>
+<img src="https://media4.giphy.com/media/3q0h46XjxT0kdCih6M/giphy.gif" width="45%" align="right" style="border-radius:10px; margin-left:16px"/>
 
 > AI-powered municipal complaint management platform for Tamil Nadu citizens & administrators
 
