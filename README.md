@@ -142,6 +142,40 @@
 <br clear="right"/>
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🏛️ [CivicFlow — AI Civic Complaint Platform](https://github.com/Arun597134/)
+
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="45%" align="right" style="border-radius:10px; margin-left:16px"/>
+
+> AI-powered municipal complaint management platform for Tamil Nadu citizens & administrators
+
+![React](https://img.shields.io/badge/React%2FVite-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
+![ML](https://img.shields.io/badge/ML-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+**🤖 AI & ML Core**
+- 👁️ AI Vision module parses complaint images → auto-routes to correct dept (Public Works / Sanitation)
+- ⏱️ ML delay prediction model estimates resolution time from category + historical data
+- 💰 Anti-corruption cost estimation — caps base repair estimates at ₹500 for transparency
+
+**🗺️ Hyper-Local Operations**
+- 📍 All **38 Tamil Nadu districts** mapped down to town/village level
+- 🚗 Ola-style live dashboard for real-time officer assignment by geo-location
+- 📡 Citizens track assigned officer & operational status live
+
+**🌍 Citizen Empowerment**
+- 🌐 Tamil language localization via global translation widget
+- ✅ Full CRUD — citizens own, track & delete their complaints
+- 🔐 JWT-secured separate portals for Citizens & Administrators
+
+<br clear="right"/>
+</td>
+</tr>
 </table>
 
 ---
