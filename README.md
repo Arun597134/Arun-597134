@@ -23,30 +23,29 @@
 
 ---
 
-<img align="right" alt="Coding GIF" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 🧠 About Me
 
-```python
-class ArunM:
-    name     = "Arun M"
-    role     = ["Full Stack Developer", "AI/ML Engineer"]
-    edu      = "B.Tech – AI & DS @ SJIT Chennai"
-    cgpa     = 8.08
-    location = "Chennai, India 🇮🇳"
-    stack    = {
-        "frontend"  : ["React", "Redux", "Tailwind"],
-        "backend"   : ["Node.js", "Express", "REST APIs"],
-        "ai_ml"     : ["Python", "NLP", "scikit-learn"],
-        "database"  : ["MongoDB", "SQL"],
-        "devops"    : ["Git", "CI/CD", "Vercel", "Oracle"]
-    }
-    building = "MERN LMS Platform 🏗️"
-    fun_fact = "I make machines learn so I don't have to 🤖"
+👋 &nbsp;Hey! I'm **Arun M** — a passionate **Full Stack Developer** and **AI/ML Engineer** from Chennai, India 🇮🇳
 
-    def say_hi(self):
-        return "Let's build something amazing together 🚀"
-```
+🎓 &nbsp;Pursuing **B.Tech in AI & Data Science** at St. Joseph's Institute of Technology &nbsp;`CGPA: 8.08 / 10`
+
+🚀 &nbsp;Currently building a **MERN Learning Management System** with role-based access & AI integration
+
+🤖 &nbsp;I love crafting intelligent systems — from NLP pipelines to real-time proctoring engines
+
+💡 &nbsp;Fun fact: *I make machines learn so I don't have to!*
+
+<br/>
+
+<!-- Animated info pills -->
+![Name](https://img.shields.io/badge/👤_Name-Arun%20M-7c3aed?style=flat-square&labelColor=1a0533)
+![Role](https://img.shields.io/badge/💼_Role-Full%20Stack%20%7C%20AI%2FML-7c3aed?style=flat-square&labelColor=1a0533)
+![Location](https://img.shields.io/badge/📍_Location-Chennai%2C%20India-7c3aed?style=flat-square&labelColor=1a0533)
+![CGPA](https://img.shields.io/badge/🎓_CGPA-8.08%20%2F%2010-7c3aed?style=flat-square&labelColor=1a0533)
+![Status](https://img.shields.io/badge/🔨_Building-MERN%20LMS-7c3aed?style=flat-square&labelColor=1a0533)
+![Open](https://img.shields.io/badge/✅_Open%20To-Opportunities-22c55e?style=flat-square&labelColor=14532d)
 
 <br clear="right"/>
 
@@ -149,16 +148,35 @@ class ArunM:
 
 ## 💼 Experience
 
-```
-🏢  Prodigy Infotech           ──  Software Dev Intern      [Jul – Aug 2025]
-    ↳ Scalable UI modules · 10+ bug fixes · CI/CD deployments
+<div align="center">
 
-🏢  Codtech IT Solutions        ──  Web Dev Intern           [2024 – 2025]
-    ↳ 3+ responsive pages · RESTful API integration · Git workflows
+### 🟣 &nbsp;Prodigy Infotech &nbsp;—&nbsp; ![Role](https://img.shields.io/badge/Software%20Dev%20Intern-7c3aed?style=for-the-badge) &nbsp; ![Date](https://img.shields.io/badge/Jul–Aug%202025-1a0533?style=flat-square)
 
-🏢  Codsoft IT Solutions        ──  Java Programming Intern  [Jan – Feb 2025]
-    ↳ 5+ OOP programs · DSA · Refactored reusable modules
-```
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36px"/> &nbsp;
+![](https://img.shields.io/badge/✔%20Scalable%20UI%20Modules-0f172a?style=flat-square)
+![](https://img.shields.io/badge/✔%2010+%20Bug%20Fixes-0f172a?style=flat-square)
+![](https://img.shields.io/badge/✔%20CI%2FCD%20Deployments-0f172a?style=flat-square)
+![](https://img.shields.io/badge/✔%20Git%20Version%20Control-0f172a?style=flat-square)
+
+---
+
+### 🔵 &nbsp;Codtech IT Solutions &nbsp;—&nbsp; ![Role](https://img.shields.io/badge/Web%20Dev%20Intern-0ea5e9?style=for-the-badge) &nbsp; ![Date](https://img.shields.io/badge/2024–2025-0c4a6e?style=flat-square)
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36px"/> &nbsp;
+![](https://img.shields.io/badge/✔%203+%20Responsive%20Pages-0f172a?style=flat-square)
+![](https://img.shields.io/badge/✔%20RESTful%20API%20Integration-0f172a?style=flat-square)
+![](https://img.shields.io/badge/✔%20Git%20Branching%20Workflows-0f172a?style=flat-square)
+
+---
+
+### 🟠 &nbsp;Codsoft IT Solutions &nbsp;—&nbsp; ![Role](https://img.shields.io/badge/Java%20Programming%20Intern-f97316?style=for-the-badge) &nbsp; ![Date](https://img.shields.io/badge/Jan–Feb%202025-7c2d12?style=flat-square)
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="36px"/> &nbsp;
+![](https://img.shields.io/badge/✔%205+%20OOP%20%26%20DSA%20Programs-0f172a?style=flat-square)
+![](https://img.shields.io/badge/✔%20Reusable%20Module%20Refactoring-0f172a?style=flat-square)
+![](https://img.shields.io/badge/✔%20Code%20Review%20%26%20Optimization-0f172a?style=flat-square)
+
+</div>
 
 ---
 
